@@ -20,7 +20,6 @@ Project ini adalah aplikasi web sederhana untuk menampilkan form login dan fungs
     ```bash
     composer install
     ```
-    ```
 3.  **Salin file environment:**
     ```bash
     cp .env.example .env
